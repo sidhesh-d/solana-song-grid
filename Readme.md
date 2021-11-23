@@ -5,6 +5,8 @@ Install Rust
 curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
 ```
 
+Install Solana: https://docs.solana.com/cli/install-solana-cli-tools#use-solanas-install-tool
+
 Install Anchor
 ```bash
 cargo install --git https://github.com/project-serum/anchor anchor-cli --locked
