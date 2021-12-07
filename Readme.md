@@ -1,4 +1,4 @@
-Solana program to store song links with upvotes in blockchain. Includes tipping a user some solana feature.
+Solana program to store song links with upvotes in blockchain. Includes tipping a user 0.1 SOL feature.
 
 Install Rust
 ```bash
